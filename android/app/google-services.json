@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "804238331167",
+    "project_id": "producers-db",
+    "storage_bucket": "producers-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804238331167:android:5f8f38d31eaa4b8884f42a",
+        "android_client_info": {
+          "package_name": "com.example.nosignalappv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804238331167-cgn2d5dra902gaehd4d5auanoi0in6sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS7ZPvgnEwiJXByGzZ_65n2OH3eLCTLNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804238331167-cgn2d5dra902gaehd4d5auanoi0in6sr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804238331167-lanfehk447fqtne0fvjup8hnc7omnicl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nosignalappv3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804238331167:android:c61caac3ea34123984f42a",
+        "android_client_info": {
+          "package_name": "com.example.regprodchepo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804238331167-cgn2d5dra902gaehd4d5auanoi0in6sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS7ZPvgnEwiJXByGzZ_65n2OH3eLCTLNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804238331167-cgn2d5dra902gaehd4d5auanoi0in6sr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804238331167-lanfehk447fqtne0fvjup8hnc7omnicl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nosignalappv3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
